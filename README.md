@@ -1,7 +1,7 @@
 Workshop
 --------
 
-Some materials on NLP piplines for our corpus workshop (Slots 5 and 6)
+Some materials on NLP pipelines for our corpus workshop (Slots 5 and 6)
 
 - [**F3**](http://github.com/pruizf/f3): Freeling Fast and Furious
 - [**Seuss**](http://github.com/pruizf/seuss): SpaCy-Enabled Usage Should Succeed
